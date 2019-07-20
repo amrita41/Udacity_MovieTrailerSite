@@ -2,8 +2,6 @@
 
 This is a Movie Trailer Website developed using Python for Udacity's Full Stack Web Developer Program.
 
-Content:
-
 1.entertainement_center.py- This file contains instances of 'Movie()' class which assigns movie title, movie description,movie poster image, movie trailer url and release date. A list of instance is created which is then passed to open_movies_page() method of fresh_tomatoes.py file.
 
 2.fresh_tomatoes.py- This file contains HTML, CSS code to render the content on web browser. Also, a Python method 'open_movies_page()' is created which takes in the movie data from entertainment_center.py.
