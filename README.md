@@ -1,4 +1,4 @@
-# Udacity_Movie_Trailer_Website
+# Udacity_Movie_Trailer_Site
 
 This is a Movie Trailer Website developed using Python for Udacity's Full Stack Web Developer Program.
 
